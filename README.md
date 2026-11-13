@@ -23,7 +23,7 @@ Dua belas tahun berlalu sejak malam tersebut. Memasuki **Chapter 1: Autumn**, ce
 * **Koleksi Mantra (*Spells*)**: Pemain dapat berganti-ganti mantra secara langsung selama pertempuran, meliputi serangan proyektil lurus maupun serangan area (*ground cast*), seperti *Fireball*, *Spark Bolt*, *Wind Slash*, *Sky Slash*, *Flame Pillar*, *Thorn Roots*, dan *Stone Spikes*.
 * **Range / Rage Mode**: Mode khusus yang dapat diaktifkan untuk menggandakan daya rusak serangan pemain terhadap musuh biasa maupun bos.
 
-### 3. Pertarungan Bos (Ghost Executor)
+### 3. Pertarungan Bos (Ghost Executor Sebagai test untuk dev belajar pertarungan dinamis/dinamika.)
 * **AI Multi-Fase**: Bos utama **Ghost Executor** memiliki pola serangan dinamis berupa tebasan sabit jarak dekat (*melee*), serangan duri tanah (*skill*), serta kemampuan memanggil pasukan hantu kecil (*summon*) sebagai musuh boss bawaan/untuk test saja.
 * **Manajemen Energi Bos**: Selain memiliki *HP Bar* yang berskala sesuai tingkat kesulitan, bos juga menggunakan *Magic Bar* tersendiri yang terkuras setiap kali melancarkan serangan sihir atau memanggil anak buah, lalu pulih secara bertahap.
 
