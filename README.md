@@ -58,8 +58,9 @@ Sistem `DeviceMode` secara otomatis mengenali perangkat input terakhir yang digu
 3. **Shynetown**: Area pemukiman awal dan titik transisi menuju wilayah hutan.
 4. **Jungle & Jungle Routes (1 - 4)**: Wilayah hutan berlapis dengan jalur bercabang, musuh hantu, rintangan berduri, dan teka-teki lingkungan.
 5. **Cave**: Area gua vertikal dengan tingkat pencahayaan sangat rendah (visibilitas 2%) yang mengandalkan cahaya di sekitar karakter serta jebakan bebatuan mematikan.
-6. **Boss Map**: Arena tertutup tempat pertarungan melawan Ghost Executor berlangsung.
-7. **Before Ending & Credits**: Area penutup menuju layar kredit akhir dan pembukaan mode kesulitan lanjutan.
+6. **( map lainya akan di update )**
+7. **Boss Map**: Arena tertutup tempat pertarungan melawan Ghost Executor sebagai test berlangsung.
+8. **Before Ending & Credits**: Area penutup menuju layar kredit akhir dan pembukaan mode kesulitan lanjutan.
 
 ---
 
