@@ -95,7 +95,7 @@ Seluruh sistem antarmuka pengguna (UI), fisika karakter, hingga logika dunia dib
 ## Kredit & Kontributor
 
 * **Creator, Story, Programming, Art & Music**: Rationatsu
-* **Main Original Character**: Arskhy
+* **Main Original Character**: shyrn
 * **Animation**: Opium
 * **Special Thanks**: Kouzerumatsukitsune, Foxy, Ary's, serta seluruh keluarga, sahabat, dan pendukung proyek ini.
 
