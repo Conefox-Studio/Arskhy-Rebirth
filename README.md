@@ -47,7 +47,7 @@ Setiap sesi *New Game* dihitung sebagai satu perjalanan (*journey*). Game menera
 Sistem `DeviceMode` secara otomatis mengenali perangkat input terakhir yang digunakan pemain tanpa perlu pengaturan manual:
 * **Keyboard & Mouse**: Menampilkan ikon tombol keyboard dengan dukungan kustomisasi tombol penuh (*keybind remapping*).
 * **Controller / Gamepad**: Mendeteksi jenis kontroler secara otomatis (Xbox, PlayStation, atau Nintendo Switch) dan menyesuaikan ikon antarmuka.
-* **Touchscreen / Mobile (Android & iOS)**: Menampilkan antarmuka tombol virtual D-Pad dan tombol aksi multi-sentuh (*multi-touch*) tanpa joystick analog, lengkap dengan editor tata letak (*Touch Layout Editor*) dan pengaturan transparansi.
+* **Touchscreen / Mobile (Android)**: Menampilkan antarmuka tombol virtual D-Pad dan tombol aksi multi-sentuh (*multi-touch*) tanpa joystick analog, lengkap dengan editor tata letak (*Touch Layout Editor*) dan pengaturan transparansi.
 
 ---
 
