@@ -8,7 +8,13 @@
 ---
 
 ## Latar Belakang & Alur Cerita
+<details>
+<summary><b>Baca Cerita Lengkap (Story & Dialog)</b></summary>
+<br>
 
+* [Baca Naskah Lengkap di Story.md](Story/Story.md)
+
+</details>
 Kisah bermula di bawah langit malam bertabur bintang, ketika **Arskhy** dan **Skyumi** menyambut kelahiran anak mereka. Keduanya sepakat menamainya **Shyrnaru**, gabungan dari nama mereka berdua yang terdengar kokoh dan maskulin. Namun, tiga tahun berselang, Arskhy menyadari bahwa suara tawa kecil sang anak tidak memiliki nada berat khas anak laki-laki, melainkan lembut dan jernih menyerupai suara Skyumi. Menyadari bahwa buah hati mereka adalah seorang perempuan, pada malam itu juga mereka mengganti namanya menjadi **Shyrn**.
 
 Dua belas tahun berlalu sejak malam tersebut. Memasuki **Chapter 1: Autumn**, cerita berlatar di dataran terkutuk **Aethelgard**, sebuah dunia dengan langit kelabu kehitaman yang diselimuti kabut tebal dari reruntuhan menara kuno. Pemain berperan memandu Shyrn melintasi berbagai wilayah sunyi, ruang bawah tanah, dan kastil berbahaya.
