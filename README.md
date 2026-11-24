@@ -140,6 +140,7 @@ Sistem `DeviceMode` secara otomatis mengenali perangkat input terakhir yang digu
 * [Devlog #1](Dev%20Log/Devlog%231.md)
 * [Devlog #2](Dev%20Log/Devlog%232.md)
 * [Devlog #3](Dev%20Log/Devlog%233.md)
+* [Devlog #4](Dev%Log/Devlog%234.md)
 
 </details>
 
