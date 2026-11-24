@@ -22,7 +22,7 @@ Seluruh musik latar dan aransemen dalam **Arskhy Rebirth** dikomposisikan oleh *
 </details>
 
 <details>
-  <summary> <b>v1 Script — Arskhy Rebirth (Klik untuk melihat detail & membuka folder)</b></summary>
+  <summary> <b>Script Arskhy Rebirth (Klik untuk melihat detail & membuka folder)</b></summary>
 
   <br>
 
