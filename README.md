@@ -15,7 +15,7 @@ Seluruh musik latar dan aransemen dalam **Arskhy Rebirth** dikomposisikan oleh *
 <summary><b>Akses Koleksi Soundtrack (Klik untuk membuka)</b></summary>
 <br>
 
-[![Dengarkan OST Arskhy Rebirth](https://img.shields.io/badge/Dengarkan_OST-Arskhy_Rebirth-1e293b?style=for-the-badge&logo=applemusic&logoColor=38bdf8)](https://link-center.net/10803983/mHIxfOkyDjj1)
+[![Dengarkan OST Arskhy Rebirth](https://img.shields.io/badge/Dengarkan_OST-Arskhy_Rebirth-1e293b?style=for-the-badge&logo=soundcloud&logoColor=38bdf8)](https://link-center.net/10803983/mHIxfOkyDjj1)
 
 * **Komposer & Aransemen**: Rationatsu (Conefox Studio)
 
