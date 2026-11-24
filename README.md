@@ -6,7 +6,6 @@
 **Arskhy Rebirth** adalah game aksi-petualangan (*hybrid side-scrolling & top-down action-adventure RPG*) bergaya *2D pixel-art dark fantasy* yang dibangun menggunakan **Godot Engine** (GDScript). Proyek ini dikembangkan oleh **Rationatsu** di bawah naungan **Conefox Studio**.
 
 ---
----
 
 ## Original Soundtrack (OST)
 
@@ -16,7 +15,8 @@ Seluruh musik latar dan aransemen dalam **Arskhy Rebirth** dikomposisikan oleh *
 <summary><b>Akses Koleksi Soundtrack (Klik untuk membuka)</b></summary>
 <br>
 
-* **Arsip Resmi OST (Bublup)**: [Buka Halaman Soundtrack Arskhy Rebirth](https://link-center.net/10803983/mHIxfOkyDjj1)
+[![Dengarkan OST Arskhy Rebirth](https://img.shields.io/badge/Dengarkan_OST-Arskhy_Rebirth-1e293b?style=for-the-badge&logo=applemusic&logoColor=38bdf8)](https://link-center.net/10803983/mHIxfOkyDjj1)
+
 * **Komposer & Aransemen**: Rationatsu (Conefox Studio)
 
 </details>
