@@ -90,17 +90,6 @@ Sistem `DeviceMode` secara otomatis mengenali perangkat input terakhir yang digu
 
 ---
 
-## Arsitektur Kode (GDScript)
-
-Seluruh sistem antarmuka pengguna (UI), fisika karakter, hingga logika dunia dibangun secara modular menggunakan GDScript:
-* **Manajemen Data & Pengaturan (`game_state.gd`, `game_settings.gd`, `achievements.gd`)**: Mengatur penyimpanan data perjalanan (*save/load*), jumlah *faint*, tingkat kesulitan, progres pencapaian lokal, serta konfigurasi grafis dan audio.
-* **Sistem Level & Dunia (`level.gd`, `topdown_level.gd`, `day_night.gd`, `atmosphere.gd`)**: Kelas induk untuk peta *side-scroller* dan *top-down*, menangani pemuatan peta JSON, *tile collision* presisi, siklus siang-malam, pencahayaan dinamis, serta efek partikel cuaca.
-* **Karakter, Tempur & AI (`player.gd`, `enemy.gd`, `td_enemy.gd`, `boss.gd`, `cat_boss.gd`, `magic_fx.gd`)**: Mengelola mesin status (*state machine*) Shyrn, fisika pergerakan, proyektil sihir, kecerdasan buatan musuh darat maupun *top-down*, serta pola serangan bos.
-* **Interaksi & UI (`inventory_ui.gd`, `shop_ui.gd`, `chest_ui.gd`, `dialog_box.gd`, `choice_box.gd`)**: Mengatur pengelolaan tas, transaksi toko, peti penyimpanan, kotak dialog bercabang, dan balon emosi karakter.
-* **Input Lintas Platform (`device_mode.gd`, `keybinds.gd`, `touch_controls.gd`, `touch_layout_editor.gd`)**: Mengatur peralihan input otomatis antara keyboard, kontroler, dan layar sentuh beserta kustomisasi tata letaknya.
-
----
-
 ## Kredit & Kontributor
 
 * **Creator, Story, Programming, Art & Music**: Rationatsu
