@@ -99,6 +99,13 @@ Seluruh sistem antarmuka pengguna (UI), fisika karakter, hingga logika dunia dib
 * **Main Original Character**: shyrn
 * **Animation**: Opium
 * **Special Thanks**: Kouzerumatsukitsune, Foxy, Ary's, serta seluruh keluarga, sahabat, dan pendukung proyek ini.
+<details>
+<summary><b>📜 Daftar Dev Log Update</b></summary>
+<br>
+
+* [Devlog#1](Dev%20Log/Devlog%231.md)
+
+</details>
 
 ---
 
