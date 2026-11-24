@@ -1,5 +1,7 @@
-# Arskhy Rebirth
-
+<h1>
+#Arskhy Rebirth
+  <img src="https://img.itch.zone/aW1nLzMyNTU2NDU3LnBuZw==/original/4X9TZx.png" width="40" align="right" alt="Arskhy Rebirth Icon" />
+</h1>
 **Arskhy Rebirth** adalah game aksi-petualangan (*side-scrolling action-adventure RPG*) bergaya *2D pixel-art dark fantasy* yang dibangun menggunakan **Godot Engine** (GDScript). Proyek ini dikembangkan oleh **Rationatsu** di bawah naungan **Conefox Studio**.
 
 ---
