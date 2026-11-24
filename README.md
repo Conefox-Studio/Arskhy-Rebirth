@@ -21,6 +21,18 @@ Seluruh musik latar dan aransemen dalam **Arskhy Rebirth** dikomposisikan oleh *
 
 </details>
 
+<details>
+  <summary> <b>v1 Script — Arskhy Rebirth (Klik untuk melihat detail & membuka folder)</b></summary>
+
+  <br>
+
+  > **Arskhy Rebirth v1 Script Collection** (`93 GDScript files` — Godot Engine 4.7)  
+  > Berisi seluruh sistem inti gameplay, AI musuh & boss, level dungeon, sistem dialog/cerita, siklus siang-malam, kontrol sentuh, hingga antarmuka pengguna (UI).
+
+  ###  Akses Langsung Folder
+   **[Buka Folder `v1 script` di Repository](./v1%20script)**
+</details>
+
 ## Latar Belakang & Alur Cerita
 <details>
 <summary><b>Baca Cerita Lengkap (Story & Dialog)</b></summary>
