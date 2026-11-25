@@ -1,11 +1,7 @@
 <h1>
-
+  <img src="https://img.itch.zone/aW1nLzMyNTU2NDU3LnBuZw==/original/4X9TZx.png" width="36" align="absmiddle" alt="Arskhy Rebirth Icon" />
   Arskhy Rebirth
-
-  <img src="https://img.itch.zone/aW1nLzMyNTU2NDU3LnBuZw==/original/4X9TZx.png" width="40" align="right" alt="Arskhy Rebirth Icon" />
-
 </h1>
-
 
 
 **Arskhy Rebirth** adalah game aksi-petualangan (*hybrid side-scrolling & top-down action-adventure RPG*) bergaya *2D pixel-art dark fantasy* yang dibangun menggunakan **Godot Engine** (GDScript). Proyek ini dikembangkan oleh **Rationatsu** di bawah naungan **Conefox Studio**.
@@ -48,13 +44,13 @@ Seluruh musik latar dan aransemen dalam **Arskhy Rebirth** dikomposisikan oleh *
 
 
 
-## Lisensi & Perlindungan Aset
+## Lisensi
 
 
 
-* **Kode Sumber / Script**: Dirilis di bawah lisensi **CC0 1.0 Universal (Public Domain Dedication)**.
+* **Kode Sumber / Script:** Dirilis di bawah lisensi **CC0 1.0 Universal (Public Domain Dedication)**.
 
-* **Aset Game (Copyrighted)**: Sebagian aset visual (*pixel-art*, karakter original, animasi), audio/musik (OST & SFX), serta naskah cerita dilindungi hak cipta (**All Rights Reserved  Copyrighted by Conefox Studio / Rationatsu**). Dilarang menyalin asset yang di buat Rationatsu, mendistribusikan ulang, memodifikasi, atau menggunakan aset-aset tersebut tanpa izin tertulis dari pemilik hak cipta. kecuali, asset yang ada di Itch.io.
+* **Aset Game (Copyrighted):** Sebagian aset visual (*pixel-art*, karakter original, animasi), audio/musik (OST & SFX), serta naskah cerita dilindungi hak cipta (**All Rights Reserved — Copyrighted by Conefox Studio / Rationatsu**). Dilarang menyalin aset yang dibuat oleh Rationatsu, mendistribusikan ulang, memodifikasi, atau menggunakan aset-aset tersebut tanpa izin tertulis dari pemilik hak cipta, kecuali aset yang memang disediakan di halaman itch.io.
 
 
 
@@ -127,6 +123,8 @@ culture and the further production of creative, cultural and scientific
 works, or to gain reputation or greater distribution for their Work in
 
 part through the use and efforts of others.
+
+
 
 And the assets are copyrighted.
 
