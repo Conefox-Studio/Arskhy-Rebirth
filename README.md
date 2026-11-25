@@ -126,6 +126,8 @@ works, or to gain reputation or greater distribution for their Work in
 
 part through the use and efforts of others.
 
+And the assets are copyrighted.
+
 
 
 For these and/or other purposes and motivations, and without any
