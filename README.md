@@ -48,17 +48,19 @@ Seluruh musik latar dan aransemen dalam **Arskhy Rebirth** dikomposisikan oleh *
 
 
 
-## Lisensi
+## Lisensi & Perlindungan Aset
 
 
 
-Proyek ini dirilis di bawah lisensi **CC0 1.0 Universal (Public Domain Dedication)**.
+* **Kode Sumber / Script**: Dirilis di bawah lisensi **CC0 1.0 Universal (Public Domain Dedication)**.
+
+* **Aset Game (Copyrighted)**: Seluruh aset visual (*pixel-art*, karakter original, animasi), audio/musik (OST & SFX), serta naskah cerita dilindungi hak cipta (**All Rights Reserved — Copyrighted by Conefox Studio / Rationatsu**). Dilarang menyalin, mendistribusikan ulang, memodifikasi, atau menggunakan aset-aset tersebut tanpa izin tertulis dari pemilik hak cipta.
 
 
 
 <details>
 
-<summary><b>CC0 1.0 Universal - Creative Commons Legal Code (Klik untuk melihat teks lengkap)</b></summary>
+<summary><b>CC0 1.0 Universal & Asset Copyright Notice (Klik untuk melihat teks lengkap)</b></summary>
 
 <br>
 
