@@ -576,7 +576,7 @@ Sistem `DeviceMode` secara otomatis mengenali perangkat input terakhir yang digu
 
 * [Devlog #4](Dev%20Log/Devlog%234.md)
   
-* [Devlog #5](Dev%20log/Devlog%235.md)
+* [Devlog #5](Dev%20Log/Devlog%235.md)
 
 
 
